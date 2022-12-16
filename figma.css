@@ -15,7 +15,7 @@ ul,li{
     padding: 0;
     list-style-type: none;
 }
-@media screen and (min-width:835px) {
+@media screen and (min-width:1280px) {
   
 .display{
     width: 1440px;
@@ -114,7 +114,7 @@ li{
 }
 }
 
-@media screen and (min-width:376px) and (max-width:834px) {
+@media screen and (min-width:834px) and (max-width:1279px) {
     .display{
         width: 834px;
         height: 633px;
@@ -218,7 +218,7 @@ li{
     }     
 }
 
-@media screen and (max-width:375px) {
+@media screen and (min-width:375px) and (max-width:829px){
     .display{
         width: 375px;
         height: 776px;
